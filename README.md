@@ -1,62 +1,112 @@
-# web-portfolio-front-end
-Portfólio em HTML e CSS, desenvolvido como entrega final para a disciplina de Fron-end. O projeto foi feito usando o auxílio do Github Copilot para ajustes e minucias, e contou com um protótipo do Figma como base para construção da estrutura das divs e do código.
+# 🌐 Web Portfolio - Front-End
 
-Pré-requisitos de construção do portfólio:
+Este é um projeto de **portfólio pessoal** desenvolvido em **HTML** e **CSS** como entrega final da disciplina de Front-End. Ele tem como objetivo apresentar de forma profissional minhas habilidades, projetos e experiências na área de desenvolvimento web.
 
-1. Cabeçalho (Header)  - Nome completo ou nome profissional. 
-- Navegação principal com links âncora para as seções da página (ex: Sobre, Projetos, Contato). 
-- Opcional: pequena frase de impacto ou tagline (ex: "Apaixonado por resolver problemas com tecnologia"). 
+> ⚒️ O desenvolvimento foi realizado com o auxílio do **GitHub Copilot** para ajustes pontuais e boas práticas de código, utilizando um **protótipo no Figma** como referência de estrutura e layout.
 
-2. Apresentação (Hero Section) 
-- Foto profissional ou avatar ilustrado. 
-- Breve descrição (2 a 3 linhas) sobre quem você é e o que faz. 
-- Botões de ação: "Ver Projetos", "Download do Currículo", "Contato". 
+---
 
-3. Sobre Mim 
-- Parágrafo com apresentação pessoal e profissional. 
-- Formação acadêmica (curso, instituição, período). 
-- Áreas de interesse. 
-- Habilidades interpessoais e características marcantes. 
+## 📌 Requisitos de Funcionalidades e Estrutura
 
-4. Habilidades Técnicas 
-- Lista ou ícones com as principais tecnologias dominadas. 
-- Pode conter barras de progresso, gráficos, ou apenas ícones com texto. 
+O portfólio foi construido com base nos requisitos abaixo e conta com as seguintes seções:
 
-5. Projetos / Portfólio 
-- Galeria com 3 a 6 projetos: 
-• Nome do projeto. 
-• Breve descrição. 
-• Link para código-fonte ou versão online. 
-• Imagem ou print do projeto, se possível.
+### 📁 Header
 
-6. Experiência Acadêmica e Profissional 
-- Se houver: estágios, monitorias, bolsas, eventos, hackathons, projetos de extensão, trabalho freelancer. 
-- Caso não possua experiências formais: 
-• Participação em projetos voluntários ou pessoais. 
-• Projetos acadêmicos relevantes. 
-• Maratonas de programação, cursos práticos, bootcamps. 
-• Contribuições open source, se houver.
+* Nome completo ou nome profissional
+* Navegação principal com links âncora (Sobre, Projetos, Contato)
+* Frase de impacto ou tagline (ex: "Apaixonado por resolver problemas com tecnologia")
 
-7. Certificações e Cursos
-- Cursos extracurriculares relevantes.
-- Informar: nome do curso, plataforma/instituição, ano de conclusão.
+### 👤 Hero Section
 
-8. Contato
-- Formulário simples com: nome, e-mail, mensagem.
-- Ou, links diretos para: E-mail, LinkedIn, GitHub. 
-- Opcional: outras redes técnicas ou cidade/estado.
+* Foto profissional ou avatar ilustrado
+* Breve descrição pessoal e profissional (2 a 3 linhas)
+* Botões de ação: `Ver Projetos`, `Download do Currículo`, `Contato`
 
-9. Rodapé (Footer) - Créditos do autor da página. - Direitos autorais. - Repetição dos ícones de redes sociais ou navegação rápida. 
+### 🧾 Sobre Mim
 
-Requisitos Visuais e Técnicos
-- Responsividade: compatível com celular, tablet e desktop.
-- Acessibilidade: cores com bom contraste, textos legíveis, navegação clara.
-- Design coerente: tipografia, paleta de cores e espaçamentos organizados.
-- Evitar cópias diretas de templates prontos: use como referência apenas. 
+* Texto de apresentação pessoal
+* Formação acadêmica (curso, instituição, período)
+* Áreas de interesse
+* Soft skills e características marcantes
 
-Extras Recomendados (Opcional) 
-- Depoimentos de colegas ou professores. 
-- Seção de blog ou publicações técnicas. 
-- Modo escuro/claro. - Animações suaves e interativas.
+### 🛠️ Habilidades Técnicas
 
+* Tecnologias dominadas (ícones, listas, ou barras de progresso)
+
+### 💼 Projetos / Portfólio
+
+* Galeria de 3 a 6 projetos com:
+
+  * Nome
+  * Descrição
+  * Link para código ou versão online
+  * Imagem/print ilustrativo
+
+### 📚 Experiência
+
+* Estágios, monitorias, eventos, bolsas, projetos de extensão ou freelas
+* Alternativas: projetos acadêmicos, bootcamps, open source, voluntariado
+
+### 🎓 Certificações e Cursos
+
+* Nome do curso
+* Plataforma/instituição
+* Ano de conclusão
+
+### 📬 Contato
+
+* Formulário com: nome, e-mail, mensagem
+* Links diretos para e-mail, LinkedIn, GitHub, etc.
+
+### ⚙️ Footer
+
+* Créditos e direitos autorais
+* Ícones de redes sociais ou navegação rápida
+
+---
+
+## 🎨 Requisitos Visuais e Técnicos
+
+* ✅ **Responsivo**: compatível com dispositivos móveis e desktop
+* ✅ **Acessível**: cores com bom contraste, texto legível e navegação clara
+* ✅ **Design consistente**: tipografia, espaçamentos e paleta coerentes
+  
+---
+
+## ✨ Extras Recomendados (não obrigatórios)
+
+* Depoimentos de colegas/professores
+* Seção de blog ou publicações técnicas
+* Suporte a modo escuro/claro
+* Animações leves e interativas
+
+---
+
+## 🚀 Como visualizar
+
+Você pode abrir o arquivo `index.html` diretamente no navegador, ou subir os arquivos em uma hospedagem como [GitHub Pages](https://pages.github.com/) para visualização online.
+
+---
+
+## 📁 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* Figma (prototipação)
+* GitHub Copilot (apoio no desenvolvimento)
+
+---
+
+## 🤝 Contribuição
+
+Este projeto foi feito com fins acadêmicos e pessoais, mas sugestões e feedbacks são bem-vindos. Sinta-se livre para abrir uma issue ou enviar um pull request.
+
+---
+
+## 🧑‍💻 Autora
+
+Desenvolvido por **Maria Isabelly Silva Santos**
+📧 E-mail: [mariaisa.estudante@gmail.com](mailto:mariaisa.estudante@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/mariaisabelly](https://www.linkedin.com/in/mariaisabelly/)
+🐙 GitHub: [github.com/mariaisabellys](https://github.com/mariaisabellys)
 
